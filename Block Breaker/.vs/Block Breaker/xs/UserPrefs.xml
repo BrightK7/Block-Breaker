@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneLoader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LoseCollider.cs" Line="4" Column="35" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="30" Column="46" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="10" Column="46" />
+      <File FileName="Assets/Scripts/Block.cs" Line="60" Column="1" />
+      <File FileName="Assets/Scripts/Level.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f131592f-9983-489b-b202-311a2b1e1359" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
